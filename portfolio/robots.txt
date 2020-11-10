@@ -1,4 +1,4 @@
-User-Agent: *
+User-agent: *
 Disallow: /
 Disallow: *.jpg
 Disallow: *.png
