@@ -1,0 +1,6 @@
+
+# Beget FileManager Auth rules
+AuthName "Protected area, need authorization"
+AuthType Basic
+AuthUserFile /home/m/m98577lf/m98577lf.beget.tech/public_html/resume/.htpasswd
+require valid-user
