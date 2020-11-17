@@ -1568,7 +1568,6 @@ body.nav-active .nav__list-item:nth-child(10) {
   -webkit-transform: translateY(0%);
           transform: translateY(0%);
   -webkit-transition: 0.4 ease;
-  transition: 0.4 ease;
 }
 .velo-slides-nav {
   /* lateral navigation */
