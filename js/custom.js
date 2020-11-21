@@ -81,6 +81,7 @@
 
 	
 	//Navigation
+	// ОТКАЗЫВАЕТСЯ РАБОТАТЬ С 4.5 БУТСТРАПОМ И НОВЫМ ДЖИКВЕРИ // ПРОЩЕ ЗАНОВО НАПИСАТЬ
 
 	// var app = function () {
 	// 	var body = undefined;
@@ -360,4 +361,56 @@
 	} )(jQuery);
 
 	
-  })(jQuery); 
+  })(jQuery);
+
+
+
+// Бургер-меню
+// function burgerMenu(selector) {
+// 	let menu = $(selector)
+// 	let button = menu.find('.burger_menu_button')
+// 	let links = menu.find('.burger_menu_link')
+// 	let overlay = menu.find('.burger_menu_overlay')
+//
+// 	button.on('click', (e) => {
+// 		e.preventDefault()
+// 		toggleMenu()
+// 	})
+//
+// 	links.on('click', () =>toggleMenu())
+// 	overlay.on('click', () => toggleMenu())
+//
+// 	function toggleMenu() {
+// 		menu.toggleClass('burger_menu_active')
+// 		if (menu.hasClass('birger_menu_active')) {
+// 			$('body').css('overflow', 'hidden')
+// 		} else {
+// 			$('body').css('overflow', 'visible')
+// 		}
+// 	}
+// }
+// burgerMenu('.burger_menu')
+
+// Бургер-меню v.0.2
+// function openNav() {
+// 	document.getElementById("myNav").style.width = "100%";
+// }
+//
+// function closeNav() {
+// 	document.getElementById("myNav").style.width = "0%";
+// }
+
+/*gamburger v.0.3*/
+$(document).ready(function() {
+	$(document).delegate('.open', 'click', function(event){
+		$(this).addClass('oppenned');
+		event.stopPropagation();
+	})
+	$(document).delegate('body', 'click', function(event) {
+		$('.open').removeClass('oppenned');
+	})
+	$(document).delegate('.cls', 'click', function(event){
+		$('.open').removeClass('oppenned');
+		event.stopPropagation();
+	});
+});
