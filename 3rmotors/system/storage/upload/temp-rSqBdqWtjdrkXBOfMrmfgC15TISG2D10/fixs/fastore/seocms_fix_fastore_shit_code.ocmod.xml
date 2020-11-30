@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modification>
+    <name>SEO CMS FIX FASTORE SHIT CODE</name>
+    <version>1.1.1</version>
+    <author>admin@opencartadmin.com</author>
+    <code>seocms_fix_fastore_shit_code</code>
+    <link>http://opencartadmin.com</link>
+    <file path="catalog/view/theme/*/lib/module.php" error="skip">
+    <operation error="skip">
+        <search><![CDATA[$modules = $this->config->get($extension['code'] . '_module');]]></search>
+        <add position="replace"><![CDATA[
+				// Why two times call the modules?  WTF?! Shit code
+				if ($extension['code']!='blog') {
+					$modules = $this->config->get($extension['code'] . '_module');
+				} else {
+					$modules = array();
+				}
+    ]]></add>
+    </operation>
+    </file>
+    <file path="catalog/view/theme/fastor/template/common/{home.tpl,header.tpl,footer.tpl}" error="skip">
+    <operation error="skip">
+        <search><![CDATA[DIR_TEMPLATE.$config->get('config_template')."/lib/module.php"]]></search>
+        <add position="replace"><![CDATA[modification(DIR_TEMPLATE.$config->get('config_template')."/lib/module.php")]]></add>
+    </operation>
+    </file>
+</modification>
