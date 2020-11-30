@@ -1,0 +1,1178 @@
+2020-02-26 11:08:40 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 11:10:13 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 11:10:38 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 11:11:44 - ERROR --> unlink(/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/uploads/avatar/): Is a directory
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/Upload/FamilyTree.php [126]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/familytree.php:28]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/familytree.php:54]
+    #2 uploadAdvancedAvatar called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/familytree.php:143]
+    #3 upload called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/familytree.php:1263]
+    #4 removeOldAvatar called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/Upload/FamilyTree.php:62]
+    #5 unlink called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/Upload/FamilyTree.php:126]
+    #6 fcmsErrorHandler called at [???:???]
+
+ 
+2020-02-26 11:12:32 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 11:12:55 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 11:14:36 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 11:16:18 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 11:19:01 - ERROR --> unlink(/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/uploads/avatar/): Is a directory
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/Upload/FamilyTree.php [126]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/familytree.php:28]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/familytree.php:54]
+    #2 uploadAdvancedAvatar called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/familytree.php:143]
+    #3 upload called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/familytree.php:1263]
+    #4 removeOldAvatar called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/Upload/FamilyTree.php:62]
+    #5 unlink called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/Upload/FamilyTree.php:126]
+    #6 fcmsErrorHandler called at [???:???]
+
+ 
+2020-02-26 11:22:19 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 11:24:51 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 11:24:54 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 11:25:04 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 11:25:06 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 11:26:18 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 11:30:37 - ERROR --> require_once(/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree//ui//themes/blue-chrome/templates/familytree/details.php): failed to open stream: No such file or directory
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [5044]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/familytree.php:28]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/familytree.php:54]
+    #2 displayDetails called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/familytree.php:80]
+    #3 loadTemplate called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/familytree.php:475]
+    #4 loadTemplate called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:5044]
+    #5 fcmsErrorHandler called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:5044]
+
+ 
+2020-02-26 11:34:12 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 11:35:26 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 11:35:39 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 11:36:25 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:08:34 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:08:37 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:09:27 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:13:50 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:18:32 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:19:48 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:19:52 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:21:50 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:21:53 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:22:07 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:23:48 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:24:00 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:24:05 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:24:18 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:26:43 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:26:48 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:27:01 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:29:02 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:30:21 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:31:30 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:31:33 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:32:27 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:33:57 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:34:07 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:34:21 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:35:18 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:35:30 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:37:50 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:37:55 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:42:02 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:45:46 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:46:00 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:52:48 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:53:14 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:53:18 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:56:24 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:56:27 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:56:33 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:57:11 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:57:14 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:57:27 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:57:31 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:57:53 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:58:00 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:58:00 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:58:03 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:58:25 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 12:58:40 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:27:21 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:27:24 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:27:28 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:32:59 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:34:09 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:34:22 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:34:25 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:52:13 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:52:17 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:52:32 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:52:35 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:53:01 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:53:04 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:53:06 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:53:23 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:53:25 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:53:28 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:55:37 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:56:03 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:56:13 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:56:49 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:57:45 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 13:58:27 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 14:00:34 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 14:07:04 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 14:18:54 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 14:19:41 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 14:24:22 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 14:26:24 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
+2020-02-26 14:26:58 - ERROR --> Invalid user id. - 0
+  FILE  - /home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php [157]
+  PHP   - 5.6.40 (Linux)
+  STACK
+    #0 __construct called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:40]
+    #1 control called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:69]
+    #2 displayWhatsNew called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:94]
+    #3 displayWhatsNewAll called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:276]
+    #4 getUserDisplayName called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/home.php:599]
+    #5 add called at [/home/m/m98577lf/m98577lf.beget.tech/public_html/family_tree/inc/utils.php:158]
+
+ 
