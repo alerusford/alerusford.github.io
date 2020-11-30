@@ -1,1 +1,0 @@
-<?php/*|[{"username":"admin","password":"565c22e46a6fcccba3ba394d147f89bd7f61d210","project":"\/home\/y\/y98577gq\/y98577gq.beget.tech\/public_html"}]|*/?>
