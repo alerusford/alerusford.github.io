@@ -1,26 +1,26 @@
 <?php
-define('HTTP_SERVER', 'http://m98577lf.beget.tech/vizitshop/');
-define('HTTPS_SERVER', 'http://m98577lf.beget.tech/vizitshop/');
+define('HTTP_SERVER', 'https://alerusford.github.io/3rmotors/');
+define('HTTPS_SERVER', 'https://alerusford.github.io/3rmotors/');
 
-define('DIR_APPLICATION', '/home/m/m98577lf/m98577lf.beget.tech/public_html/vizitshop/catalog/');
-define('DIR_SYSTEM', '/home/m/m98577lf/m98577lf.beget.tech/public_html/vizitshop/system/');
-define('DIR_IMAGE', '/home/m/m98577lf/m98577lf.beget.tech/public_html/vizitshop/image/');
-define('DIR_LANGUAGE', '/home/m/m98577lf/m98577lf.beget.tech/public_html/vizitshop/catalog/language/');
-define('DIR_TEMPLATE', '/home/m/m98577lf/m98577lf.beget.tech/public_html/vizitshop/catalog/view/theme/');
-define('DIR_CONFIG', '/home/m/m98577lf/m98577lf.beget.tech/public_html/vizitshop/system/config/');
-define('DIR_CACHE', '/home/m/m98577lf/m98577lf.beget.tech/public_html/vizitshop/system/storage/cache/');
-define('DIR_DOWNLOAD', '/home/m/m98577lf/m98577lf.beget.tech/public_html/vizitshop/system/storage/download/');
-define('DIR_LOGS', '/home/m/m98577lf/m98577lf.beget.tech/public_html/vizitshop/system/storage/logs/');
-define('DIR_MODIFICATION', '/home/m/m98577lf/m98577lf.beget.tech/public_html/vizitshop/system/storage/modification/');
-define('DIR_UPLOAD', '/home/m/m98577lf/m98577lf.beget.tech/public_html/vizitshop/system/storage/upload/');
+define('DIR_APPLICATION', '/home/vol15_5/000space.com/space_24255205/3rmotors/catalog/');
+define('DIR_SYSTEM', '/home/vol15_5/000space.com/space_24255205/3rmotors/system/');
+define('DIR_IMAGE', '/home/vol15_5/000space.com/space_24255205/3rmotors/image/');
+define('DIR_LANGUAGE', '/home/vol15_5/000space.com/space_24255205/3rmotors/catalog/language/');
+define('DIR_TEMPLATE', '/home/vol15_5/000space.com/space_24255205/3rmotors/catalog/view/theme/');
+define('DIR_CONFIG', '/home/vol15_5/000space.com/space_24255205/3rmotors/system/config/');
+define('DIR_CACHE', '/home/vol15_5/000space.com/space_24255205/3rmotors/system/storage/cache/');
+define('DIR_DOWNLOAD', '/home/vol15_5/000space.com/space_24255205/3rmotors/system/storage/download/');
+define('DIR_LOGS', '/home/vol15_5/000space.com/space_24255205/3rmotors/system/storage/logs/');
+define('DIR_MODIFICATION', '/home/vol15_5/000space.com/space_24255205/3rmotors/system/storage/modification/');
+define('DIR_UPLOAD', '/home/vol15_5/000space.com/space_24255205/3rmotors/system/storage/upload/');
 
 define('DB_DRIVER', 'mysqli');
-define('DB_HOSTNAME', 'localhost');
-define('DB_USERNAME', 'm98577lf_a');
-define('DB_PASSWORD', 'DdOjcXh4');
+define('DB_HOSTNAME', 'sql206.000space.com');
+define('DB_USERNAME', 'space_24255205');
+define('DB_PASSWORD', 'alerusford');
 define('DB_DATABASE', 'm98577lf_a');
 define('DB_PORT', '3306');
-define('DB_PREFIX', 'oc_');
+define('DB_PREFIX', 'space_24255205_3rmotos');
 
 // конфиг не работает с подпапкой
 // $host = $_SERVER['HTTP_HOST'];

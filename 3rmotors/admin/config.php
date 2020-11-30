@@ -1,8 +1,8 @@
 <?php
-define('HTTP_SERVER', 'http://m98577lf.beget.tech/vizitshop/admin/');
-define('HTTP_CATALOG', 'http://m98577lf.beget.tech/vizitshop/');
-define('HTTPS_SERVER', 'http://m98577lf.beget.tech/vizitshop/admin/');
-define('HTTPS_CATALOG', 'http://m98577lf.beget.tech/vizitshop/');
+define('HTTP_SERVER', 'https://alerusford.github.io/3rmotors/admin/');
+define('HTTP_CATALOG', 'https://alerusford.github.io/3rmotors/');
+define('HTTPS_SERVER', 'https://alerusford.github.io/3rmotors/admin/');
+define('HTTPS_CATALOG', 'https://alerusford.github.io/3rmotors/');
 
 define('DIR_APPLICATION', '/home/m/m98577lf/m98577lf.beget.tech/public_html/vizitshop/admin/');
 define('DIR_SYSTEM', '/home/m/m98577lf/m98577lf.beget.tech/public_html/vizitshop/system/');
