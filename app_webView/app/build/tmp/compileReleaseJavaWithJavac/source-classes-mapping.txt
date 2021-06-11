@@ -1,0 +1,7 @@
+com/example/alerusfordgithubio/MainActivity.java
+ com.example.alerusfordgithubio.MainActivity
+ com.example.alerusfordgithubio.MainActivity$1
+com/example/alerusfordgithubio/webView.java
+ com.example.alerusfordgithubio.webView
+com/example/alerusfordgithubio/BuildConfig.java
+ com.example.alerusfordgithubio.BuildConfig
